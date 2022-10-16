@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @midhunmohank
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Midhun Mohan
+- 👀 I’m interested in building and scaling Data Products
+- 🌱 I’m currently learning Advanced Data Sciences and Architures along with Data Management and Database Design
+- 💞️ I’m looking to collaborate on end-to-end Data Applications
+- 📫 Reach me at: <a href = "mailto: mohan.ku@northeastern.edu">Send Email</a>
 
 <!---
 midhunmohank/midhunmohank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
