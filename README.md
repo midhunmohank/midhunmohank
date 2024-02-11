@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Midhun Mohan<br>- 👀 I’m interested in building and scaling Data as a Service(DaaS) and Model as a Service(MaaS) Products<br>- 🌱 I’m currently learning High Performance Machine Learning <br>- 📫 Reach me at: <a href = "mailto: mohan.ku@northeastern.edu">mohan.ku@northeastern.edu</a>
+- 👋 Hi, I’m Midhun Mohan<br>- 👀 I’m interested in building and scaling Data as a Service(DaaS) and Model as a Service(MaaS) Products<br>- 🌱 I’m currently learning Knowledge Graphs and Advanced Software Engineering in Medical Devices <br>- 📫 Reach me at: <a href = "mailto: mohan.ku@northeastern.edu">mohan.ku@northeastern.edu</a>
 
 
 ## 🌐 Socials:
